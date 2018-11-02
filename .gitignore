@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# User-specific files
+.vs
+
+
 # Compiled Object files
 *.slo
 *.lo
